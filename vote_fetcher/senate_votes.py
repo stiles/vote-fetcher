@@ -184,7 +184,7 @@ def generate_vote_summary(merged_df):
 
 
 def generate_partisan_summary(enriched_df, output_dir, congress, session, vote_number):
-    """Generate a detailed partisan summary of the vote and save as a CSV."""
+    """Generate a detailed partisan summary of the vote and return a DataFrame."""
     enriched_df = enriched_df.drop_duplicates(subset='id')
     
     overall = (
@@ -199,8 +199,15 @@ def generate_partisan_summary(enriched_df, output_dir, congress, session, vote_n
     )
 
     # Calculate total votes for 'Yea' and 'Nay'
-    yea_votes = overall[overall["vote"] == "Yea"].iloc[:, 1:].sum(axis=1).values[0]
-    nay_votes = overall[overall["vote"] == "Nay"].iloc[:, 1:].sum(axis=1).values[0]
+    if "Yea" in overall["vote"].values:
+        yea_votes = overall[overall["vote"] == "Yea"].iloc[:, 1:].sum(axis=1).values[0]
+    else:
+        yea_votes = 0
+
+    if "Nay" in overall["vote"].values:
+        nay_votes = overall[overall["vote"] == "Nay"].iloc[:, 1:].sum(axis=1).values[0]
+    else:
+        nay_votes = 0
 
     # Determine the winning side and append '✓' to the winning vote
     if yea_votes > nay_votes:
@@ -216,6 +223,8 @@ def generate_partisan_summary(enriched_df, output_dir, congress, session, vote_n
     print("\nPartisan Summary:")
     print(overall)
 
+    return overall
+
 
 def main():
     parser = argparse.ArgumentParser(description="Fetch US Senate votes and store results.")
@@ -223,6 +232,7 @@ def main():
     parser.add_argument("--session", required=True, type=int, help="Session number (e.g., 1)")
     parser.add_argument("--vote_number", required=True, type=int, help="Vote number (e.g., 15)")
     parser.add_argument("--bucket", required=False, help="S3 bucket name (optional)")
+    parser.add_argument("--aws-profile", required=False, help="AWS profile name for authentication (optional)")
     args = parser.parse_args()
 
     # Fetch member list
@@ -248,25 +258,36 @@ def main():
     print("Formatting final output...")
     formatted_df = format_final_output(enriched_df)
 
-    # Generate and print vote summary
-    print("Generating vote summary...")
-    generate_vote_summary(enriched_df)
-
+    # Save results locally in CSV & JSON
     output_dir = os.path.join("..", "data", "senate")
     os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f"senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv")
-    save_to_csv(formatted_df, output_file)
 
-    # Generate and save partisan summary
+    csv_file = os.path.join(output_dir, f"senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv")
+    json_file = os.path.join(output_dir, f"senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.json")
+    summary_csv_file = os.path.join(output_dir, f"senate_partisan_summary_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv")
+    summary_json_file = os.path.join(output_dir, f"senate_partisan_summary_{args.congress}_{args.session}_vote_{args.vote_number:05d}.json")
+
+    save_to_csv(formatted_df, csv_file)
+    formatted_df.to_json(json_file, orient="records", indent=2, force_ascii=False)
+    print(f"Saved JSON data to {json_file}")
+
+    # Generate and save partisan summary in CSV & JSON
     print("Generating partisan summary...")
-    generate_partisan_summary(enriched_df, output_dir, args.congress, args.session, args.vote_number)
+    overall = generate_partisan_summary(enriched_df, output_dir, args.congress, args.session, args.vote_number)
+
+    save_to_csv(overall, summary_csv_file)
+    overall.to_json(summary_json_file, orient="records", indent=2, force_ascii=False)
+    print(f"Saved JSON partisan summary to {summary_json_file}")
+
 
     # Upload to S3 if specified
+    subdirectory = "vote-fetcher/senate"
+
     if args.bucket:
-        s3_key = f"senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv"
-        save_to_s3(output_dir, args.bucket, s3_key)
-
-
+        save_to_s3(csv_file, args.bucket, f"{subdirectory}/senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv", args.aws_profile)
+        save_to_s3(json_file, args.bucket, f"{subdirectory}/senate_vote_{args.congress}_{args.session}_vote_{args.vote_number:05d}.json", args.aws_profile)
+        save_to_s3(summary_csv_file, args.bucket, f"{subdirectory}/senate_partisan_summary_{args.congress}_{args.session}_vote_{args.vote_number:05d}.csv", args.aws_profile)
+        save_to_s3(summary_json_file, args.bucket, f"{subdirectory}/senate_partisan_summary_{args.congress}_{args.session}_vote_{args.vote_number:05d}.json", args.aws_profile)
 
 if __name__ == "__main__":
     main()
