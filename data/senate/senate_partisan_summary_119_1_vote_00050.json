@@ -1,0 +1,14 @@
+[
+  {
+    "vote":"Yea \u2713",
+    "Democratic":0.0,
+    "Independent":0.0,
+    "Republican":52.0
+  },
+  {
+    "vote":"Nay",
+    "Democratic":45.0,
+    "Independent":2.0,
+    "Republican":1.0
+  }
+]

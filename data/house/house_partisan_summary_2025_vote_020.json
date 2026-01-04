@@ -1,0 +1,20 @@
+[
+    {
+        "Vote":"Yes ✓",
+        "Democratic":0.0,
+        "Republican":214.0,
+        "total":214.0
+    },
+    {
+        "Vote":"No",
+        "Democratic":204.0,
+        "Republican":0.0,
+        "total":204.0
+    },
+    {
+        "Vote":"Not voting\/present",
+        "Democratic":11.0,
+        "Republican":4.0,
+        "total":15.0
+    }
+]

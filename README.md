@@ -1,6 +1,6 @@
 # Vote Fetcher
 
-Vote Fetcher is a simple tool for journalists, researchers, and developers to fetch roll call votes from the US House of Representatives and the Senate. The tool processes the vote data, enriches it with member details, prints summary information to the terminal, and outputs formatted CSV and JSON files for further analysis. Optionally, the outputs can be uploaded to Amazon S3.
+Vote Fetcher is a simple tool for journalists, researchers and developers to fetch roll call votes from the US House of Representatives and the US Senate. The tool processes the vote data, enriches it with member details, prints summary information to the terminal and outputs formatted CSV and JSON files for further analysis. Optionally, the outputs can be uploaded to Amazon S3.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,16 +17,22 @@ Vote Fetcher is a simple tool for journalists, researchers, and developers to fe
 
 1. **Clone the repository:**
 
-    git clone https://github.com/yourusername/vote-fetcher.git  
-    cd vote-fetcher
+```bash
+git clone https://github.com/yourusername/vote-fetcher.git
+cd vote-fetcher
+```
 
 2. **Install dependencies:**
 
-    pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 3. **Optionally, install the package in editable mode:**
 
-    pip install -e .
+```bash
+pip install -e .
+```
 
 ---
 
@@ -34,10 +40,12 @@ Vote Fetcher is a simple tool for journalists, researchers, and developers to fe
 
 Ensure the following directory structure exists for storing output data (the scripts will create them if they don't exist):
 
-    vote-fetcher/
-    ├── data/
-    │   ├── house/
-    │   └── senate/
+```
+vote-fetcher/
+├── data/
+│   ├── house/
+│   └── senate/
+```
 
 ---
 
@@ -52,7 +60,9 @@ The tool includes two scripts:
 
 To fetch a roll call vote from the House of Representatives, run:
 
-    python house_votes.py --vote_number <vote_number> --year <year> [--bucket <s3_bucket>] [--aws-profile <aws_profile>]
+```bash
+python house_votes.py --vote_number <vote_number> --year <year> [--bucket <s3_bucket>] [--aws-profile <aws_profile>]
+```
 
 **Arguments**:
 - `--vote_number`: The roll call vote number (e.g., `15`).
@@ -62,13 +72,17 @@ To fetch a roll call vote from the House of Representatives, run:
 
 **Example**:
 
-    python house_votes.py --vote_number 15 --year 2025 --bucket stilesdata.com --aws-profile haekeo
+```bash
+python house_votes.py --vote_number 15 --year 2025 --bucket stilesdata.com --aws-profile haekeo
+```
 
 ### Fetching Senate Votes
 
 To fetch a roll call vote from the Senate, run:
 
-    python senate_votes.py --congress <congress> --session <session> --vote_number <vote_number> [--bucket <s3_bucket>] [--aws-profile <aws_profile>]
+```bash
+python senate_votes.py --congress <congress> --session <session> --vote_number <vote_number> [--bucket <s3_bucket>] [--aws-profile <aws_profile>]
+```
 
 **Arguments**:
 - `--congress`: The Congress number (e.g., `119`).
@@ -80,7 +94,9 @@ To fetch a roll call vote from the Senate, run:
 
 **Example**:
 
-    python senate_votes.py --congress 119 --session 1 --vote_number 15 --bucket stilesdata.com --aws-profile haekeo
+```bash
+python senate_votes.py --congress 119 --session 1 --vote_number 15 --bucket stilesdata.com --aws-profile haekeo
+```
 
 ---
 
@@ -106,11 +122,15 @@ If an S3 bucket is specified, the files are also uploaded to S3 using a consiste
 
 ### Fetching and Uploading a House Vote
 
-    python house_votes.py --vote_number 15 --year 2025 --bucket stilesdata.com --aws-profile haekeo
+```bash
+python house_votes.py --vote_number 15 --year 2025 --bucket stilesdata.com --aws-profile haekeo
+```
 
 Resulting file example (JSON):  
 [house_partisan_summary_2025_vote_015.json](https://stilesdata.com/vote-fetcher/house/house_partisan_summary_2025_vote_015.json)
 
 ### Fetching and Saving a Senate Vote
 
-    python senate_votes.py --congress 119 --session 1 --vote_number 15 --bucket stilesdata.com --aws-profile haekeo
+```bash
+python senate_votes.py --congress 119 --session 1 --vote_number 15 --bucket stilesdata.com --aws-profile haekeo
+```

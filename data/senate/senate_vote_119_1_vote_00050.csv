@@ -1,0 +1,103 @@
+id,last_name,first_name,party,state,vote,cleaned_name
+A000382,Alsobrooks,Angela D.,D,MD,Nay,alsobrooks
+B001230,Baldwin,Tammy,D,WI,Nay,baldwin
+B001299,Banks,Jim,R,IN,Yea,banks
+B001261,Barrasso,John,R,WY,Yea,barrasso
+B001267,Bennet,Michael F.,D,CO,Nay,bennet
+B001243,Blackburn,Marsha,R,TN,Yea,blackburn
+B001277,Blumenthal,Richard,D,CT,Nay,blumenthal
+B001303,Blunt Rochester,Lisa,D,DE,Nay,blunt rochester
+B001288,Booker,Cory A.,D,NJ,Nay,booker
+B001236,Boozman,John,R,AR,Yea,boozman
+B001319,Britt,Katie Boyd,R,AL,Yea,britt
+B001305,Budd,Ted,R,NC,Yea,budd
+C000127,Cantwell,Maria,D,WA,Nay,cantwell
+C001047,Capito,Shelley Moore,R,WV,Yea,capito
+C001075,Cassidy,Bill,R,LA,Yea,cassidy
+C001035,Collins,Susan M.,R,ME,Yea,collins
+C001088,Coons,Christopher A.,D,DE,Nay,coons
+C001056,Cornyn,John,R,TX,Yea,cornyn
+C001113,Cortez Masto,Catherine,D,NV,Nay,cortez masto
+C001095,Cotton,Tom,R,AR,Yea,cotton
+C001096,Cramer,Kevin,R,ND,Yea,cramer
+C000880,Crapo,Mike,R,ID,Yea,crapo
+C001098,Cruz,Ted,R,TX,Yea,cruz
+C001114,Curtis,John R.,R,UT,Yea,curtis
+D000618,Daines,Steve,R,MT,Yea,daines
+D000622,Duckworth,Tammy,D,IL,Nay,duckworth
+D000563,Durbin,Richard J.,D,IL,Nay,durbin
+E000295,Ernst,Joni,R,IA,Yea,ernst
+F000479,Fetterman,John,D,PA,Nay,fetterman
+F000463,Fischer,Deb,R,NE,Yea,fischer
+G000574,Gallego,Ruben,D,AZ,Nay,gallego
+G000555,Gillibrand,Kirsten E.,D,NY,Nay,gillibrand
+G000359,Graham,Lindsey,R,SC,Yea,graham
+G000386,Grassley,Chuck,R,IA,Yea,grassley
+H000601,Hagerty,Bill,R,TN,Yea,hagerty
+H001076,Hassan,Margaret Wood,D,NH,Nay,hassan
+H001089,Hawley,Josh,R,MO,Yea,hawley
+H001046,Heinrich,Martin,D,NM,Nay,heinrich
+H000273,Hickenlooper,John W.,D,CO,Nay,hickenlooper
+H001042,Hirono,Mazie K.,D,HI,Nay,hirono
+H001061,Hoeven,John,R,ND,Yea,hoeven
+H001104,Husted,Jon,R,OH,Yea,husted
+H001079,Hyde-Smith,Cindy,R,MS,Yea,hyde-smith
+J000293,Johnson,Ron,R,WI,Yea,johnson
+J000312,Justice,James C.,R,WV,Yea,justice
+K000384,Kaine,Tim,D,VA,Nay,kaine
+K000377,Kelly,Mark,D,AZ,Nay,kelly
+K000393,Kennedy,John,R,LA,Yea,kennedy
+K000394,Kim,Andy,D,NJ,Nay,kim
+K000383,King,"Angus S., Jr.",I,ME,Nay,king
+K000367,Klobuchar,Amy,D,MN,Nay,klobuchar
+L000575,Lankford,James,R,OK,Yea,lankford
+L000577,Lee,Mike,R,UT,Yea,lee
+L000570,Luján,Ben Ray,D,NM,Nay,lujan
+L000571,Lummis,Cynthia M.,R,WY,Yea,lummis
+M000133,Markey,Edward J.,D,MA,Nay,markey
+M001198,Marshall,Roger,R,KS,Yea,marshall
+M000355,McConnell,Mitch,R,KY,Nay,mcconnell
+M001243,McCormick,David,R,PA,Yea,mccormick
+M001176,Merkley,Jeff,D,OR,Nay,merkley
+M001244,Moody,Ashley,R,FL,Yea,moody
+M000934,Moran,Jerry,R,KS,Yea,moran
+M001242,Moreno,Bernie,R,OH,Yea,moreno
+M001190,Mullin,Markwayne,R,OK,Yea,mullin
+M001153,Murkowski,Lisa,R,AK,Yea,murkowski
+M001169,Murphy,Christopher,D,CT,Nay,murphy
+M001111,Murray,Patty,D,WA,Nay,murray
+O000174,Ossoff,Jon,D,GA,Nay,ossoff
+P000145,Padilla,Alex,D,CA,Nay,padilla
+P000603,Paul,Rand,R,KY,Yea,paul
+P000595,Peters,Gary C.,D,MI,Nay,peters
+R000122,Reed,Jack,D,RI,Nay,reed
+R000618,Ricketts,Pete,R,NE,Yea,ricketts
+R000584,Risch,James E.,R,ID,Yea,risch
+R000608,Rosen,Jacky,D,NV,Nay,rosen
+R000605,Rounds,Mike,R,SD,Yea,rounds
+S000033,Sanders,Bernard,I,VT,Nay,sanders
+S001194,Schatz,Brian,D,HI,Nay,schatz
+S001150,Schiff,Adam B.,D,CA,Nay,schiff
+S001227,Schmitt,Eric,R,MO,Yea,schmitt
+S000148,Schumer,Charles E.,D,NY,Nay,schumer
+S001217,Scott,Rick,R,FL,Yea,scott
+S001184,Scott,Tim,R,SC,Yea,scott
+S001217,Scott,Rick,R,FL,Yea,scott
+S001184,Scott,Tim,R,SC,Yea,scott
+S001181,Shaheen,Jeanne,D,NH,Nay,shaheen
+S001232,Sheehy,Tim,R,MT,Yea,sheehy
+S001208,Slotkin,Elissa,D,MI,Nay,slotkin
+S001203,Smith,Tina,D,MN,Nay,smith
+S001198,Sullivan,Dan,R,AK,Yea,sullivan
+T000250,Thune,John,R,SD,Yea,thune
+T000476,Tillis,Thom,R,NC,Yea,tillis
+T000278,Tuberville,Tommy,R,AL,Yea,tuberville
+V000128,Van Hollen,Chris,D,MD,Nay,van hollen
+W000805,Warner,Mark R.,D,VA,Nay,warner
+W000790,Warnock,Raphael G.,D,GA,Nay,warnock
+W000817,Warren,Elizabeth,D,MA,Nay,warren
+W000800,Welch,Peter,D,VT,Nay,welch
+W000802,Whitehouse,Sheldon,D,RI,Nay,whitehouse
+W000437,Wicker,Roger F.,R,MS,Yea,wicker
+W000779,Wyden,Ron,D,OR,Nay,wyden
+Y000064,Young,Todd,R,IN,Yea,young

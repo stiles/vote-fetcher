@@ -1,0 +1,3466 @@
+[
+    {
+        "Name":"Adams",
+        "Representative":"Adams, Alma  S.",
+        "State":"North Carolina",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Aderholt",
+        "Representative":"Aderholt, Robert  B.",
+        "State":"Alabama",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Aguilar",
+        "Representative":"Aguilar, Pete",
+        "State":"California",
+        "District":"33rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Alford",
+        "Representative":"Alford, Mark",
+        "State":"Missouri",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Allen",
+        "Representative":"Allen, Rick  W.",
+        "State":"Georgia",
+        "District":"12th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Amo",
+        "Representative":"Amo, Gabe",
+        "State":"Rhode Island",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Amodei (NV)",
+        "Representative":"Amodei, Mark  E.",
+        "State":"Nevada",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ansari",
+        "Representative":"Ansari, Yassamin",
+        "State":"Arizona",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Arrington",
+        "Representative":"Arrington, Jodey  C.",
+        "State":"Texas",
+        "District":"19th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Auchincloss",
+        "Representative":"Auchincloss, Jake",
+        "State":"Massachusetts",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Babin",
+        "Representative":"Babin, Brian",
+        "State":"Texas",
+        "District":"36th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bacon",
+        "Representative":"Bacon, Don",
+        "State":"Nebraska",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Baird",
+        "Representative":"Baird, James  R.",
+        "State":"Indiana",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Balderson",
+        "Representative":"Balderson, Troy",
+        "State":"Ohio",
+        "District":"12th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Balint",
+        "Representative":"Balint, Becca",
+        "State":"Vermont",
+        "District":"At Large",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Barr",
+        "Representative":"Barr, Andy",
+        "State":"Kentucky",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Barragán",
+        "Representative":"Barragán, Nanette  Diaz",
+        "State":"California",
+        "District":"44th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Barrett",
+        "Representative":"Barrett, Tom",
+        "State":"Michigan",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Baumgartner",
+        "Representative":"Baumgartner, Michael",
+        "State":"Washington",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bean (FL)",
+        "Representative":"Bean, Aaron",
+        "State":"Florida",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Beatty",
+        "Representative":"Beatty, Joyce",
+        "State":"Ohio",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Begich",
+        "Representative":"Begich, Nicholas  J.\r\n III",
+        "State":"Alaska",
+        "District":"At Large",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bell",
+        "Representative":"Bell, Wesley",
+        "State":"Missouri",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Bentz",
+        "Representative":"Bentz, Cliff",
+        "State":"Oregon",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bera",
+        "Representative":"Bera, Ami",
+        "State":"California",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bergman",
+        "Representative":"Bergman, Jack",
+        "State":"Michigan",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Beyer",
+        "Representative":"Beyer, Donald  S.\r\n Jr.",
+        "State":"Virginia",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Bice",
+        "Representative":"Bice, Stephanie  I.",
+        "State":"Oklahoma",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Biggs (AZ)",
+        "Representative":"Biggs, Andy",
+        "State":"Arizona",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Biggs (SC)",
+        "Representative":"Biggs, Sheri",
+        "State":"South Carolina",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bilirakis",
+        "Representative":"Bilirakis, Gus  M.",
+        "State":"Florida",
+        "District":"12th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bishop",
+        "Representative":"Bishop, Sanford  D.\r\n Jr.",
+        "State":"Georgia",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Boebert",
+        "Representative":"Boebert, Lauren",
+        "State":"Colorado",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bonamici",
+        "Representative":"Bonamici, Suzanne",
+        "State":"Oregon",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Bost",
+        "Representative":"Bost, Mike",
+        "State":"Illinois",
+        "District":"12th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Boyle (PA)",
+        "Representative":"Boyle, Brendan  F.",
+        "State":"Pennsylvania",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Brecheen",
+        "Representative":"Brecheen, Josh",
+        "State":"Oklahoma",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bresnahan",
+        "Representative":"Bresnahan, Robert  P.\r\n Jr.",
+        "State":"Pennsylvania",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Brown",
+        "Representative":"Brown, Shontel  M.",
+        "State":"Ohio",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Brownley",
+        "Representative":"Brownley, Julia",
+        "State":"California",
+        "District":"26th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Buchanan",
+        "Representative":"Buchanan, Vern",
+        "State":"Florida",
+        "District":"16th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Budzinski",
+        "Representative":"Budzinski, Nikki",
+        "State":"Illinois",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Burchett",
+        "Representative":"Burchett, Tim",
+        "State":"Tennessee",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Burlison",
+        "Representative":"Burlison, Eric",
+        "State":"Missouri",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Bynum",
+        "Representative":"Bynum, Janelle  S.",
+        "State":"Oregon",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Calvert",
+        "Representative":"Calvert, Ken",
+        "State":"California",
+        "District":"41st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Cammack",
+        "Representative":"Cammack, Kat",
+        "State":"Florida",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Carbajal",
+        "Representative":"Carbajal, Salud  O.",
+        "State":"California",
+        "District":"24th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Carey",
+        "Representative":"Carey, Mike",
+        "State":"Ohio",
+        "District":"15th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Carson",
+        "Representative":"Carson, André",
+        "State":"Indiana",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Carter (GA)",
+        "Representative":"Carter, Earl  L. \"Buddy\"",
+        "State":"Georgia",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Carter (LA)",
+        "Representative":"Carter, Troy  A.",
+        "State":"Louisiana",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Carter (TX)",
+        "Representative":"Carter, John  R.",
+        "State":"Texas",
+        "District":"31st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Casar",
+        "Representative":"Casar, Greg",
+        "State":"Texas",
+        "District":"35th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Case",
+        "Representative":"Case, Ed",
+        "State":"Hawaii",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Casten",
+        "Representative":"Casten, Sean",
+        "State":"Illinois",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Castor (FL)",
+        "Representative":"Castor, Kathy",
+        "State":"Florida",
+        "District":"14th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Castro (TX)",
+        "Representative":"Castro, Joaquin",
+        "State":"Texas",
+        "District":"20th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Cherfilus-McCormick",
+        "Representative":"Cherfilus-McCormick, Sheila",
+        "State":"Florida",
+        "District":"20th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Chu",
+        "Representative":"Chu, Judy",
+        "State":"California",
+        "District":"28th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ciscomani",
+        "Representative":"Ciscomani, Juan",
+        "State":"Arizona",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Cisneros",
+        "Representative":"Cisneros, Gilbert  Ray\r\n Jr.",
+        "State":"California",
+        "District":"31st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Clark (MA)",
+        "Representative":"Clark, Katherine  M.",
+        "State":"Massachusetts",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Clarke (NY)",
+        "Representative":"Clarke, Yvette  D.",
+        "State":"New York",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Cleaver",
+        "Representative":"Cleaver, Emanuel",
+        "State":"Missouri",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Cline",
+        "Representative":"Cline, Ben",
+        "State":"Virginia",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Cloud",
+        "Representative":"Cloud, Michael",
+        "State":"Texas",
+        "District":"27th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Clyburn",
+        "Representative":"Clyburn, James  E.",
+        "State":"South Carolina",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Clyde",
+        "Representative":"Clyde, Andrew  S.",
+        "State":"Georgia",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Cohen",
+        "Representative":"Cohen, Steve",
+        "State":"Tennessee",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Cole",
+        "Representative":"Cole, Tom",
+        "State":"Oklahoma",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Collins",
+        "Representative":"Collins, Mike",
+        "State":"Georgia",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Comer",
+        "Representative":"Comer, James",
+        "State":"Kentucky",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Conaway",
+        "Representative":"Conaway, Herbert  C.\r\n Jr.",
+        "State":"New Jersey",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Connolly",
+        "Representative":"Connolly, Gerald  E.",
+        "State":"Virginia",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Correa",
+        "Representative":"Correa, J.  Luis",
+        "State":"California",
+        "District":"46th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Costa",
+        "Representative":"Costa, Jim",
+        "State":"California",
+        "District":"21st",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Courtney",
+        "Representative":"Courtney, Joe",
+        "State":"Connecticut",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Craig",
+        "Representative":"Craig, Angie",
+        "State":"Minnesota",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Crane",
+        "Representative":"Crane, Elijah",
+        "State":"Arizona",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Crank",
+        "Representative":"Crank, Jeff",
+        "State":"Colorado",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Crawford",
+        "Representative":"Crawford, Eric  A. \"Rick\"",
+        "State":"Arkansas",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Crenshaw",
+        "Representative":"Crenshaw, Dan",
+        "State":"Texas",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Crockett",
+        "Representative":"Crockett, Jasmine",
+        "State":"Texas",
+        "District":"30th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Crow",
+        "Representative":"Crow, Jason",
+        "State":"Colorado",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Cuellar",
+        "Representative":"Cuellar, Henry",
+        "State":"Texas",
+        "District":"28th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Davids (KS)",
+        "Representative":"Davids, Sharice",
+        "State":"Kansas",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Davidson",
+        "Representative":"Davidson, Warren",
+        "State":"Ohio",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Davis (IL)",
+        "Representative":"Davis, Danny  K.",
+        "State":"Illinois",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Davis (NC)",
+        "Representative":"Davis, Donald  G.",
+        "State":"North Carolina",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"De La Cruz",
+        "Representative":"De La Cruz, Monica",
+        "State":"Texas",
+        "District":"15th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Dean (PA)",
+        "Representative":"Dean, Madeleine",
+        "State":"Pennsylvania",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"DeGette",
+        "Representative":"DeGette, Diana",
+        "State":"Colorado",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"DeLauro",
+        "Representative":"DeLauro, Rosa  L.",
+        "State":"Connecticut",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"DelBene",
+        "Representative":"DelBene, Suzan  K.",
+        "State":"Washington",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Deluzio",
+        "Representative":"Deluzio, Christopher  R.",
+        "State":"Pennsylvania",
+        "District":"17th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"DeSaulnier",
+        "Representative":"DeSaulnier, Mark",
+        "State":"California",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"DesJarlais",
+        "Representative":"DesJarlais, Scott",
+        "State":"Tennessee",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Dexter",
+        "Representative":"Dexter, Maxine",
+        "State":"Oregon",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Diaz-Balart",
+        "Representative":"Diaz-Balart, Mario",
+        "State":"Florida",
+        "District":"26th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Dingell",
+        "Representative":"Dingell, Debbie",
+        "State":"Michigan",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Doggett",
+        "Representative":"Doggett, Lloyd",
+        "State":"Texas",
+        "District":"37th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Donalds",
+        "Representative":"Donalds, Byron",
+        "State":"Florida",
+        "District":"19th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Downing",
+        "Representative":"Downing, Troy",
+        "State":"Montana",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Dunn (FL)",
+        "Representative":"Dunn, Neal  P.",
+        "State":"Florida",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Edwards",
+        "Representative":"Edwards, Chuck",
+        "State":"North Carolina",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Elfreth",
+        "Representative":"Elfreth, Sarah",
+        "State":"Maryland",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Ellzey",
+        "Representative":"Ellzey, Jake",
+        "State":"Texas",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Emmer",
+        "Representative":"Emmer, Tom",
+        "State":"Minnesota",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Escobar",
+        "Representative":"Escobar, Veronica",
+        "State":"Texas",
+        "District":"16th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Espaillat",
+        "Representative":"Espaillat, Adriano",
+        "State":"New York",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Estes",
+        "Representative":"Estes, Ron",
+        "State":"Kansas",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Evans (CO)",
+        "Representative":"Evans, Gabe",
+        "State":"Colorado",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Evans (PA)",
+        "Representative":"Evans, Dwight",
+        "State":"Pennsylvania",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Ezell",
+        "Representative":"Ezell, Mike",
+        "State":"Mississippi",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fallon",
+        "Representative":"Fallon, Pat",
+        "State":"Texas",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fedorchak",
+        "Representative":"Fedorchak, Julie",
+        "State":"North Dakota",
+        "District":"At Large",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Feenstra",
+        "Representative":"Feenstra, Randy",
+        "State":"Iowa",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fields",
+        "Representative":"Fields, Cleo",
+        "State":"Louisiana",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Figures",
+        "Representative":"Figures, Shomari",
+        "State":"Alabama",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Finstad",
+        "Representative":"Finstad, Brad",
+        "State":"Minnesota",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fischbach",
+        "Representative":"Fischbach, Michelle",
+        "State":"Minnesota",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fitzgerald",
+        "Representative":"Fitzgerald, Scott",
+        "State":"Wisconsin",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fitzpatrick",
+        "Representative":"Fitzpatrick, Brian  K.",
+        "State":"Pennsylvania",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fleischmann",
+        "Representative":"Fleischmann, Charles  J. \"Chuck\"",
+        "State":"Tennessee",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fletcher",
+        "Representative":"Fletcher, Lizzie",
+        "State":"Texas",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Flood",
+        "Representative":"Flood, Mike",
+        "State":"Nebraska",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fong",
+        "Representative":"Fong, Vince",
+        "State":"California",
+        "District":"20th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Foster",
+        "Representative":"Foster, Bill",
+        "State":"Illinois",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Foushee",
+        "Representative":"Foushee, Valerie  P.",
+        "State":"North Carolina",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Foxx",
+        "Representative":"Foxx, Virginia",
+        "State":"North Carolina",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Frankel, Lois",
+        "Representative":"Frankel, Lois",
+        "State":"Florida",
+        "District":"22nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Franklin, Scott",
+        "Representative":"Franklin, Scott",
+        "State":"Florida",
+        "District":"18th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Friedman",
+        "Representative":"Friedman, Laura",
+        "State":"California",
+        "District":"30th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Frost",
+        "Representative":"Frost, Maxwell",
+        "State":"Florida",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Fry",
+        "Representative":"Fry, Russell",
+        "State":"South Carolina",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Fulcher",
+        "Representative":"Fulcher, Russ",
+        "State":"Idaho",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Garamendi",
+        "Representative":"Garamendi, John",
+        "State":"California",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Garbarino",
+        "Representative":"Garbarino, Andrew  R.",
+        "State":"New York",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Garcia (CA)",
+        "Representative":"Garcia, Robert",
+        "State":"California",
+        "District":"42nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"García (IL)",
+        "Representative":"García, Jesús  G. \"Chuy\"",
+        "State":"Illinois",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Garcia (TX)",
+        "Representative":"Garcia, Sylvia  R.",
+        "State":"Texas",
+        "District":"29th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Gill (TX)",
+        "Representative":"Gill, Brandon",
+        "State":"Texas",
+        "District":"26th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gillen",
+        "Representative":"Gillen, Laura",
+        "State":"New York",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gimenez",
+        "Representative":"Gimenez, Carlos  A.",
+        "State":"Florida",
+        "District":"28th",
+        "Party":"R",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Golden (ME)",
+        "Representative":"Golden, Jared  F.",
+        "State":"Maine",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Goldman (NY)",
+        "Representative":"Goldman, Daniel  S.",
+        "State":"New York",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Goldman (TX)",
+        "Representative":"Goldman, Craig  A.",
+        "State":"Texas",
+        "District":"12th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gomez",
+        "Representative":"Gomez, Jimmy",
+        "State":"California",
+        "District":"34th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gonzales, Tony",
+        "Representative":"Gonzales, Tony",
+        "State":"Texas",
+        "District":"23rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gonzalez, V.",
+        "Representative":"Gonzalez, Vicente",
+        "State":"Texas",
+        "District":"34th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gooden",
+        "Representative":"Gooden, Lance",
+        "State":"Texas",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Goodlander",
+        "Representative":"Goodlander, Maggie",
+        "State":"New Hampshire",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gosar",
+        "Representative":"Gosar, Paul  A.",
+        "State":"Arizona",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gottheimer",
+        "Representative":"Gottheimer, Josh",
+        "State":"New Jersey",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Graves",
+        "Representative":"Graves, Sam",
+        "State":"Missouri",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Gray",
+        "Representative":"Gray, Adam",
+        "State":"California",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Green (TN)",
+        "Representative":"Green, Mark  E.",
+        "State":"Tennessee",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Green, Al (TX)",
+        "Representative":"Green, Al",
+        "State":"Texas",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Greene (GA)",
+        "Representative":"Greene, Marjorie  Taylor",
+        "State":"Georgia",
+        "District":"14th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Griffith",
+        "Representative":"Griffith, H.  Morgan",
+        "State":"Virginia",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Grijalva",
+        "Representative":"Grijalva, Raúl  M.",
+        "State":"Arizona",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Grothman",
+        "Representative":"Grothman, Glenn",
+        "State":"Wisconsin",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Guest",
+        "Representative":"Guest, Michael",
+        "State":"Mississippi",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Guthrie",
+        "Representative":"Guthrie, Brett",
+        "State":"Kentucky",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hageman",
+        "Representative":"Hageman, Harriet  M.",
+        "State":"Wyoming",
+        "District":"At Large",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hamadeh (AZ)",
+        "Representative":"Hamadeh, Abraham  J.",
+        "State":"Arizona",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Harder (CA)",
+        "Representative":"Harder, Josh",
+        "State":"California",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Haridopolos",
+        "Representative":"Haridopolos, Mike",
+        "State":"Florida",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Harrigan",
+        "Representative":"Harrigan, Pat",
+        "State":"North Carolina",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Harris (MD)",
+        "Representative":"Harris, Andy",
+        "State":"Maryland",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Harris (NC)",
+        "Representative":"Harris, Mark",
+        "State":"North Carolina",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Harshbarger",
+        "Representative":"Harshbarger, Diana",
+        "State":"Tennessee",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hayes",
+        "Representative":"Hayes, Jahana",
+        "State":"Connecticut",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Hern (OK)",
+        "Representative":"Hern, Kevin",
+        "State":"Oklahoma",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Higgins (LA)",
+        "Representative":"Higgins, Clay",
+        "State":"Louisiana",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hill (AR)",
+        "Representative":"Hill, J.  French",
+        "State":"Arkansas",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Himes",
+        "Representative":"Himes, James  A.",
+        "State":"Connecticut",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hinson",
+        "Representative":"Hinson, Ashley",
+        "State":"Iowa",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Horsford",
+        "Representative":"Horsford, Steven",
+        "State":"Nevada",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Houchin",
+        "Representative":"Houchin, Erin",
+        "State":"Indiana",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Houlahan",
+        "Representative":"Houlahan, Chrissy",
+        "State":"Pennsylvania",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hoyer",
+        "Representative":"Hoyer, Steny  H.",
+        "State":"Maryland",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hoyle (OR)",
+        "Representative":"Hoyle, Val  T.",
+        "State":"Oregon",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hudson",
+        "Representative":"Hudson, Richard",
+        "State":"North Carolina",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Huffman",
+        "Representative":"Huffman, Jared",
+        "State":"California",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Huizenga",
+        "Representative":"Huizenga, Bill",
+        "State":"Michigan",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hunt",
+        "Representative":"Hunt, Wesley",
+        "State":"Texas",
+        "District":"38th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Hurd (CO)",
+        "Representative":"Hurd, Jeff",
+        "State":"Colorado",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Issa",
+        "Representative":"Issa, Darrell",
+        "State":"California",
+        "District":"48th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ivey",
+        "Representative":"Ivey, Glenn",
+        "State":"Maryland",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Jack",
+        "Representative":"Jack, Brian",
+        "State":"Georgia",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Jackson (IL)",
+        "Representative":"Jackson, Jonathan  L.",
+        "State":"Illinois",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Jackson (TX)",
+        "Representative":"Jackson, Ronny",
+        "State":"Texas",
+        "District":"13th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Jacobs",
+        "Representative":"Jacobs, Sara",
+        "State":"California",
+        "District":"51st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"James",
+        "Representative":"James, John",
+        "State":"Michigan",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Jayapal",
+        "Representative":"Jayapal, Pramila",
+        "State":"Washington",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Jeffries",
+        "Representative":"Jeffries, Hakeem  S.",
+        "State":"New York",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Johnson (GA)",
+        "Representative":"Johnson, Henry  C. \"Hank\"\r\n Jr.",
+        "State":"Georgia",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Johnson (LA)",
+        "Representative":"Johnson, Mike",
+        "State":"Louisiana",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Johnson (SD)",
+        "Representative":"Johnson, Dusty",
+        "State":"South Dakota",
+        "District":"At Large",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Johnson (TX)",
+        "Representative":"Johnson, Julie",
+        "State":"Texas",
+        "District":"32nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Jordan",
+        "Representative":"Jordan, Jim",
+        "State":"Ohio",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Joyce (OH)",
+        "Representative":"Joyce, David  P.",
+        "State":"Ohio",
+        "District":"14th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Joyce (PA)",
+        "Representative":"Joyce, John",
+        "State":"Pennsylvania",
+        "District":"13th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kamlager-Dove",
+        "Representative":"Kamlager-Dove, Sydney",
+        "State":"California",
+        "District":"37th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kaptur",
+        "Representative":"Kaptur, Marcy",
+        "State":"Ohio",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kean",
+        "Representative":"Kean, Thomas  H.\r\n Jr.",
+        "State":"New Jersey",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Keating",
+        "Representative":"Keating, William  R.",
+        "State":"Massachusetts",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kelly (IL)",
+        "Representative":"Kelly, Robin  L.",
+        "State":"Illinois",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kelly (MS)",
+        "Representative":"Kelly, Trent",
+        "State":"Mississippi",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kelly (PA)",
+        "Representative":"Kelly, Mike",
+        "State":"Pennsylvania",
+        "District":"16th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kennedy (NY)",
+        "Representative":"Kennedy, Timothy  M.",
+        "State":"New York",
+        "District":"26th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kennedy (UT)",
+        "Representative":"Kennedy, Mike",
+        "State":"Utah",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Khanna",
+        "Representative":"Khanna, Ro",
+        "State":"California",
+        "District":"17th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kiggans (VA)",
+        "Representative":"Kiggans, Jennifer  A.",
+        "State":"Virginia",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kiley (CA)",
+        "Representative":"Kiley, Kevin",
+        "State":"California",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Kim",
+        "Representative":"Kim, Young",
+        "State":"California",
+        "District":"40th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Knott",
+        "Representative":"Knott, Brad",
+        "State":"North Carolina",
+        "District":"13th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Krishnamoorthi",
+        "Representative":"Krishnamoorthi, Raja",
+        "State":"Illinois",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Kustoff",
+        "Representative":"Kustoff, David",
+        "State":"Tennessee",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"LaHood",
+        "Representative":"LaHood, Darin",
+        "State":"Illinois",
+        "District":"16th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"LaLota",
+        "Representative":"LaLota, Nick",
+        "State":"New York",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"LaMalfa",
+        "Representative":"LaMalfa, Doug",
+        "State":"California",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Landsman",
+        "Representative":"Landsman, Greg",
+        "State":"Ohio",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Langworthy",
+        "Representative":"Langworthy, Nicholas  A.",
+        "State":"New York",
+        "District":"23rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Larsen (WA)",
+        "Representative":"Larsen, Rick",
+        "State":"Washington",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Larson (CT)",
+        "Representative":"Larson, John  B.",
+        "State":"Connecticut",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Latimer",
+        "Representative":"Latimer, George",
+        "State":"New York",
+        "District":"16th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Latta",
+        "Representative":"Latta, Robert  E.",
+        "State":"Ohio",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lawler",
+        "Representative":"Lawler, Michael",
+        "State":"New York",
+        "District":"17th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lee (FL)",
+        "Representative":"Lee, Laurel  M.",
+        "State":"Florida",
+        "District":"15th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lee (NV)",
+        "Representative":"Lee, Susie",
+        "State":"Nevada",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lee (PA)",
+        "Representative":"Lee, Summer  L.",
+        "State":"Pennsylvania",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Leger Fernandez",
+        "Representative":"Leger Fernandez, Teresa",
+        "State":"New Mexico",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Letlow",
+        "Representative":"Letlow, Julia",
+        "State":"Louisiana",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Levin",
+        "Representative":"Levin, Mike",
+        "State":"California",
+        "District":"49th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Liccardo",
+        "Representative":"Liccardo, Sam  T.",
+        "State":"California",
+        "District":"16th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lieu",
+        "Representative":"Lieu, Ted",
+        "State":"California",
+        "District":"36th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lofgren",
+        "Representative":"Lofgren, Zoe",
+        "State":"California",
+        "District":"18th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Loudermilk",
+        "Representative":"Loudermilk, Barry",
+        "State":"Georgia",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lucas",
+        "Representative":"Lucas, Frank  D.",
+        "State":"Oklahoma",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Luna",
+        "Representative":"Luna, Anna Paulina",
+        "State":"Florida",
+        "District":"13th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Luttrell",
+        "Representative":"Luttrell, Morgan",
+        "State":"Texas",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Lynch",
+        "Representative":"Lynch, Stephen  F.",
+        "State":"Massachusetts",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Mace",
+        "Representative":"Mace, Nancy",
+        "State":"South Carolina",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mackenzie",
+        "Representative":"Mackenzie, Ryan",
+        "State":"Pennsylvania",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Magaziner",
+        "Representative":"Magaziner, Seth",
+        "State":"Rhode Island",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Malliotakis",
+        "Representative":"Malliotakis, Nicole",
+        "State":"New York",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Maloy",
+        "Representative":"Maloy, Celeste",
+        "State":"Utah",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mann",
+        "Representative":"Mann, Tracey",
+        "State":"Kansas",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mannion",
+        "Representative":"Mannion, John  W.",
+        "State":"New York",
+        "District":"22nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Massie",
+        "Representative":"Massie, Thomas",
+        "State":"Kentucky",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mast",
+        "Representative":"Mast, Brian  J.",
+        "State":"Florida",
+        "District":"21st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Matsui",
+        "Representative":"Matsui, Doris  O.",
+        "State":"California",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McBath",
+        "Representative":"McBath, Lucy",
+        "State":"Georgia",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McBride",
+        "Representative":"McBride, Sarah",
+        "State":"Delaware",
+        "District":"At Large",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McCaul",
+        "Representative":"McCaul, Michael  T.",
+        "State":"Texas",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McClain",
+        "Representative":"McClain, Lisa  C.",
+        "State":"Michigan",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McClain Delaney",
+        "Representative":"McClain Delaney, April",
+        "State":"Maryland",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McClellan",
+        "Representative":"McClellan, Jennifer  L.",
+        "State":"Virginia",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McClintock",
+        "Representative":"McClintock, Tom",
+        "State":"California",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McCollum",
+        "Representative":"McCollum, Betty",
+        "State":"Minnesota",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McCormick",
+        "Representative":"McCormick, Richard",
+        "State":"Georgia",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McDonald Rivet",
+        "Representative":"McDonald Rivet, Kristen",
+        "State":"Michigan",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McDowell",
+        "Representative":"McDowell, Addison  P.",
+        "State":"North Carolina",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McGarvey",
+        "Representative":"McGarvey, Morgan",
+        "State":"Kentucky",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McGovern",
+        "Representative":"McGovern, James  P.",
+        "State":"Massachusetts",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"McGuire",
+        "Representative":"McGuire, John  J.\r\n III",
+        "State":"Virginia",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"McIver",
+        "Representative":"McIver, LaMonica",
+        "State":"New Jersey",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Meeks",
+        "Representative":"Meeks, Gregory  W.",
+        "State":"New York",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Menendez",
+        "Representative":"Menendez, Robert",
+        "State":"New Jersey",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Meng",
+        "Representative":"Meng, Grace",
+        "State":"New York",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Messmer",
+        "Representative":"Messmer, Mark  B.",
+        "State":"Indiana",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Meuser",
+        "Representative":"Meuser, Daniel",
+        "State":"Pennsylvania",
+        "District":"9th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mfume",
+        "Representative":"Mfume, Kweisi",
+        "State":"Maryland",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Miller (IL)",
+        "Representative":"Miller, Mary  E.",
+        "State":"Illinois",
+        "District":"15th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Miller (OH)",
+        "Representative":"Miller, Max  L.",
+        "State":"Ohio",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Miller (WV)",
+        "Representative":"Miller, Carol  D.",
+        "State":"West Virginia",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Miller-Meeks",
+        "Representative":"Miller-Meeks, Mariannette",
+        "State":"Iowa",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Mills",
+        "Representative":"Mills, Cory",
+        "State":"Florida",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Min",
+        "Representative":"Min, Dave",
+        "State":"California",
+        "District":"47th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Moolenaar",
+        "Representative":"Moolenaar, John  R.",
+        "State":"Michigan",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moore (AL)",
+        "Representative":"Moore, Barry",
+        "State":"Alabama",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moore (NC)",
+        "Representative":"Moore, Tim",
+        "State":"North Carolina",
+        "District":"14th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moore (UT)",
+        "Representative":"Moore, Blake  D.",
+        "State":"Utah",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moore (WI)",
+        "Representative":"Moore, Gwen",
+        "State":"Wisconsin",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Moore (WV)",
+        "Representative":"Moore, Riley  M.",
+        "State":"West Virginia",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moran",
+        "Representative":"Moran, Nathaniel",
+        "State":"Texas",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Morelle",
+        "Representative":"Morelle, Joseph  D.",
+        "State":"New York",
+        "District":"25th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Morrison",
+        "Representative":"Morrison, Kelly",
+        "State":"Minnesota",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Moskowitz",
+        "Representative":"Moskowitz, Jared",
+        "State":"Florida",
+        "District":"23rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Moulton",
+        "Representative":"Moulton, Seth",
+        "State":"Massachusetts",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Mrvan",
+        "Representative":"Mrvan, Frank  J.",
+        "State":"Indiana",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Mullin",
+        "Representative":"Mullin, Kevin",
+        "State":"California",
+        "District":"15th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Murphy",
+        "Representative":"Murphy, Gregory  F.",
+        "State":"North Carolina",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Nadler",
+        "Representative":"Nadler, Jerrold",
+        "State":"New York",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Neal",
+        "Representative":"Neal, Richard  E.",
+        "State":"Massachusetts",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Neguse",
+        "Representative":"Neguse, Joe",
+        "State":"Colorado",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Nehls",
+        "Representative":"Nehls, Troy  E.",
+        "State":"Texas",
+        "District":"22nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Newhouse",
+        "Representative":"Newhouse, Dan",
+        "State":"Washington",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Norcross",
+        "Representative":"Norcross, Donald",
+        "State":"New Jersey",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Norman",
+        "Representative":"Norman, Ralph",
+        "State":"South Carolina",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Nunn (IA)",
+        "Representative":"Nunn, Zachary",
+        "State":"Iowa",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Obernolte",
+        "Representative":"Obernolte, Jay",
+        "State":"California",
+        "District":"23rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ocasio-Cortez",
+        "Representative":"Ocasio-Cortez, Alexandria",
+        "State":"New York",
+        "District":"14th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Ogles",
+        "Representative":"Ogles, Andrew",
+        "State":"Tennessee",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Olszewski",
+        "Representative":"Olszewski, Johnny  \r\n Jr.",
+        "State":"Maryland",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Omar",
+        "Representative":"Omar, Ilhan",
+        "State":"Minnesota",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Onder",
+        "Representative":"Onder, Robert  F.\r\n Jr.",
+        "State":"Missouri",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Owens",
+        "Representative":"Owens, Burgess",
+        "State":"Utah",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Pallone",
+        "Representative":"Pallone, Frank  \r\n Jr.",
+        "State":"New Jersey",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Palmer",
+        "Representative":"Palmer, Gary  J.",
+        "State":"Alabama",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Panetta",
+        "Representative":"Panetta, Jimmy",
+        "State":"California",
+        "District":"19th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Pappas",
+        "Representative":"Pappas, Chris",
+        "State":"New Hampshire",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Pelosi",
+        "Representative":"Pelosi, Nancy",
+        "State":"California",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Perez",
+        "Representative":"Perez, Marie  Gluesenkamp",
+        "State":"Washington",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Perry",
+        "Representative":"Perry, Scott",
+        "State":"Pennsylvania",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Peters",
+        "Representative":"Peters, Scott  H.",
+        "State":"California",
+        "District":"50th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Pettersen",
+        "Representative":"Pettersen, Brittany",
+        "State":"Colorado",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Pfluger",
+        "Representative":"Pfluger, August",
+        "State":"Texas",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Pingree",
+        "Representative":"Pingree, Chellie",
+        "State":"Maine",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Pocan",
+        "Representative":"Pocan, Mark",
+        "State":"Wisconsin",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Pou",
+        "Representative":"Pou, Nellie",
+        "State":"New Jersey",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Pressley",
+        "Representative":"Pressley, Ayanna",
+        "State":"Massachusetts",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Quigley",
+        "Representative":"Quigley, Mike",
+        "State":"Illinois",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Ramirez",
+        "Representative":"Ramirez, Delia  C.",
+        "State":"Illinois",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Randall",
+        "Representative":"Randall, Emily",
+        "State":"Washington",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Raskin",
+        "Representative":"Raskin, Jamie",
+        "State":"Maryland",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Reschenthaler",
+        "Representative":"Reschenthaler, Guy",
+        "State":"Pennsylvania",
+        "District":"14th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Riley (NY)",
+        "Representative":"Riley, Josh",
+        "State":"New York",
+        "District":"19th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Rivas",
+        "Representative":"Rivas, Luz  M.",
+        "State":"California",
+        "District":"29th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Rogers (AL)",
+        "Representative":"Rogers, Mike",
+        "State":"Alabama",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Rogers (KY)",
+        "Representative":"Rogers, Harold",
+        "State":"Kentucky",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Rose",
+        "Representative":"Rose, John  W.",
+        "State":"Tennessee",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ross",
+        "Representative":"Ross, Deborah  K.",
+        "State":"North Carolina",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Rouzer",
+        "Representative":"Rouzer, David",
+        "State":"North Carolina",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Roy",
+        "Representative":"Roy, Chip",
+        "State":"Texas",
+        "District":"21st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ruiz",
+        "Representative":"Ruiz, Raul",
+        "State":"California",
+        "District":"25th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Rulli",
+        "Representative":"Rulli, Michael  A.",
+        "State":"Ohio",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Rutherford",
+        "Representative":"Rutherford, John  H.",
+        "State":"Florida",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Ryan",
+        "Representative":"Ryan, Patrick",
+        "State":"New York",
+        "District":"18th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Salazar",
+        "Representative":"Salazar, Maria  Elvira",
+        "State":"Florida",
+        "District":"27th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Salinas",
+        "Representative":"Salinas, Andrea",
+        "State":"Oregon",
+        "District":"6th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Sánchez",
+        "Representative":"Sánchez, Linda  T.",
+        "State":"California",
+        "District":"38th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Scalise",
+        "Representative":"Scalise, Steve",
+        "State":"Louisiana",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Scanlon",
+        "Representative":"Scanlon, Mary Gay",
+        "State":"Pennsylvania",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Schakowsky",
+        "Representative":"Schakowsky, Janice  D.",
+        "State":"Illinois",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Schmidt",
+        "Representative":"Schmidt, Derek",
+        "State":"Kansas",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Schneider",
+        "Representative":"Schneider, Bradley  Scott",
+        "State":"Illinois",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Scholten",
+        "Representative":"Scholten, Hillary  J.",
+        "State":"Michigan",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Schrier",
+        "Representative":"Schrier, Kim",
+        "State":"Washington",
+        "District":"8th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Schweikert",
+        "Representative":"Schweikert, David",
+        "State":"Arizona",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Scott (VA)",
+        "Representative":"Scott, Robert  C. \"Bobby\"",
+        "State":"Virginia",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Scott, Austin",
+        "Representative":"Scott, Austin",
+        "State":"Georgia",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Scott, David",
+        "Representative":"Scott, David",
+        "State":"Georgia",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Self",
+        "Representative":"Self, Keith",
+        "State":"Texas",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sessions",
+        "Representative":"Sessions, Pete",
+        "State":"Texas",
+        "District":"17th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sewell",
+        "Representative":"Sewell, Terri  A.",
+        "State":"Alabama",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sherman",
+        "Representative":"Sherman, Brad",
+        "State":"California",
+        "District":"32nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sherrill",
+        "Representative":"Sherrill, Mikie",
+        "State":"New Jersey",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Shreve",
+        "Representative":"Shreve, Jefferson",
+        "State":"Indiana",
+        "District":"6th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Simon",
+        "Representative":"Simon, Lateefah",
+        "State":"California",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Simpson",
+        "Representative":"Simpson, Michael  K.",
+        "State":"Idaho",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Smith (MO)",
+        "Representative":"Smith, Jason",
+        "State":"Missouri",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Smith (NE)",
+        "Representative":"Smith, Adrian",
+        "State":"Nebraska",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Smith (NJ)",
+        "Representative":"Smith, Christopher  H.",
+        "State":"New Jersey",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Smith (WA)",
+        "Representative":"Smith, Adam",
+        "State":"Washington",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Smucker",
+        "Representative":"Smucker, Lloyd",
+        "State":"Pennsylvania",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sorensen",
+        "Representative":"Sorensen, Eric",
+        "State":"Illinois",
+        "District":"17th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Soto",
+        "Representative":"Soto, Darren",
+        "State":"Florida",
+        "District":"9th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Spartz",
+        "Representative":"Spartz, Victoria",
+        "State":"Indiana",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Stansbury",
+        "Representative":"Stansbury, Melanie  A.",
+        "State":"New Mexico",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Stanton",
+        "Representative":"Stanton, Greg",
+        "State":"Arizona",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Stauber",
+        "Representative":"Stauber, Pete",
+        "State":"Minnesota",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Stefanik",
+        "Representative":"Stefanik, Elise  M.",
+        "State":"New York",
+        "District":"21st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Steil",
+        "Representative":"Steil, Bryan",
+        "State":"Wisconsin",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Steube",
+        "Representative":"Steube, W.  Gregory",
+        "State":"Florida",
+        "District":"17th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Stevens",
+        "Representative":"Stevens, Haley  M.",
+        "State":"Michigan",
+        "District":"11th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Strickland",
+        "Representative":"Strickland, Marilyn",
+        "State":"Washington",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Strong",
+        "Representative":"Strong, Dale  W.",
+        "State":"Alabama",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Stutzman",
+        "Representative":"Stutzman, Marlin  A.",
+        "State":"Indiana",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Subramanyam",
+        "Representative":"Subramanyam, Suhas",
+        "State":"Virginia",
+        "District":"10th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Suozzi",
+        "Representative":"Suozzi, Thomas  R.",
+        "State":"New York",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Swalwell",
+        "Representative":"Swalwell, Eric",
+        "State":"California",
+        "District":"14th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Sykes",
+        "Representative":"Sykes, Emilia  Strong",
+        "State":"Ohio",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Takano",
+        "Representative":"Takano, Mark",
+        "State":"California",
+        "District":"39th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Taylor",
+        "Representative":"Taylor, David  J.",
+        "State":"Ohio",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Tenney",
+        "Representative":"Tenney, Claudia",
+        "State":"New York",
+        "District":"24th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Thanedar",
+        "Representative":"Thanedar, Shri",
+        "State":"Michigan",
+        "District":"13th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Thompson (CA)",
+        "Representative":"Thompson, Mike",
+        "State":"California",
+        "District":"4th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Thompson (MS)",
+        "Representative":"Thompson, Bennie  G.",
+        "State":"Mississippi",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Thompson (PA)",
+        "Representative":"Thompson, Glenn",
+        "State":"Pennsylvania",
+        "District":"15th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Tiffany",
+        "Representative":"Tiffany, Thomas  P.",
+        "State":"Wisconsin",
+        "District":"7th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Timmons",
+        "Representative":"Timmons, William  R.\r\n IV",
+        "State":"South Carolina",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Titus",
+        "Representative":"Titus, Dina",
+        "State":"Nevada",
+        "District":"1st",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Tlaib",
+        "Representative":"Tlaib, Rashida",
+        "State":"Michigan",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Tokuda",
+        "Representative":"Tokuda, Jill  N.",
+        "State":"Hawaii",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Tonko",
+        "Representative":"Tonko, Paul",
+        "State":"New York",
+        "District":"20th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Torres (CA)",
+        "Representative":"Torres, Norma  J.",
+        "State":"California",
+        "District":"35th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Torres (NY)",
+        "Representative":"Torres, Ritchie",
+        "State":"New York",
+        "District":"15th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Trahan",
+        "Representative":"Trahan, Lori",
+        "State":"Massachusetts",
+        "District":"3rd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Tran",
+        "Representative":"Tran, Derek",
+        "State":"California",
+        "District":"45th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Turner (OH)",
+        "Representative":"Turner, Michael  R.",
+        "State":"Ohio",
+        "District":"10th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Turner (TX)",
+        "Representative":"Turner, Sylvester",
+        "State":"Texas",
+        "District":"18th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Underwood",
+        "Representative":"Underwood, Lauren",
+        "State":"Illinois",
+        "District":"14th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Valadao",
+        "Representative":"Valadao, David  G.",
+        "State":"California",
+        "District":"22nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Van Drew",
+        "Representative":"Van Drew, Jefferson",
+        "State":"New Jersey",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Van Duyne",
+        "Representative":"Van Duyne, Beth",
+        "State":"Texas",
+        "District":"24th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Van Orden",
+        "Representative":"Van Orden, Derrick",
+        "State":"Wisconsin",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Vargas",
+        "Representative":"Vargas, Juan",
+        "State":"California",
+        "District":"52nd",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Vasquez",
+        "Representative":"Vasquez, Gabe",
+        "State":"New Mexico",
+        "District":"2nd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Veasey",
+        "Representative":"Veasey, Marc  A.",
+        "State":"Texas",
+        "District":"33rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Velázquez",
+        "Representative":"Velázquez, Nydia  M.",
+        "State":"New York",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Vindman",
+        "Representative":"Vindman, Eugene  Simon",
+        "State":"Virginia",
+        "District":"7th",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Wagner",
+        "Representative":"Wagner, Ann",
+        "State":"Missouri",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Walberg",
+        "Representative":"Walberg, Tim",
+        "State":"Michigan",
+        "District":"5th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Wasserman Schultz",
+        "Representative":"Wasserman Schultz, Debbie",
+        "State":"Florida",
+        "District":"25th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Waters",
+        "Representative":"Waters, Maxine",
+        "State":"California",
+        "District":"43rd",
+        "Party":"D",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Watson Coleman",
+        "Representative":"Watson Coleman, Bonnie",
+        "State":"New Jersey",
+        "District":"12th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Weber (TX)",
+        "Representative":"Weber, Randy  K.\r\n Sr.",
+        "State":"Texas",
+        "District":"14th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Webster (FL)",
+        "Representative":"Webster, Daniel",
+        "State":"Florida",
+        "District":"11th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Westerman",
+        "Representative":"Westerman, Bruce",
+        "State":"Arkansas",
+        "District":"4th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Whitesides",
+        "Representative":"Whitesides, George",
+        "State":"California",
+        "District":"27th",
+        "Party":"D",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Wied",
+        "Representative":"Wied, Tony",
+        "State":"Wisconsin",
+        "District":"8th",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Williams (GA)",
+        "Representative":"Williams, Nikema",
+        "State":"Georgia",
+        "District":"5th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Williams (TX)",
+        "Representative":"Williams, Roger",
+        "State":"Texas",
+        "District":"25th",
+        "Party":"R",
+        "Vote":"Not Voting"
+    },
+    {
+        "Name":"Wilson (FL)",
+        "Representative":"Wilson, Frederica  S.",
+        "State":"Florida",
+        "District":"24th",
+        "Party":"D",
+        "Vote":"No"
+    },
+    {
+        "Name":"Wilson (SC)",
+        "Representative":"Wilson, Joe",
+        "State":"South Carolina",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Wittman",
+        "Representative":"Wittman, Robert  J.",
+        "State":"Virginia",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Womack",
+        "Representative":"Womack, Steve",
+        "State":"Arkansas",
+        "District":"3rd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Yakym",
+        "Representative":"Yakym, Rudy  \r\n III",
+        "State":"Indiana",
+        "District":"2nd",
+        "Party":"R",
+        "Vote":"Yes"
+    },
+    {
+        "Name":"Zinke",
+        "Representative":"Zinke, Ryan  K.",
+        "State":"Montana",
+        "District":"1st",
+        "Party":"R",
+        "Vote":"Yes"
+    }
+]
